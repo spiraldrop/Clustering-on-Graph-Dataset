@@ -7,7 +7,7 @@ Firstly, I've visualized the entire dataset with the help of the ```networkx``` 
  
 Then I apply the kmeans algorithm and iterate it over a list of potential ks and compute the cost functions to find the ideal k. Moreover, I've visualized these newly found d-dimensional ```actor_embeddings``` with T-SNE. Same procedure has been followed for Task 2 but in this one, similar movies are grouped together. Further instructions have been provided in the documentation part of the notebook.
 
-### Libraries needed
+### Libraries needed:
 You need to install the following methods and libraries: 
 ```
 import networkx as nx
@@ -25,6 +25,6 @@ from stellargraph import StellarGraph
 ```
 **NOTE: Check your decorator version before running the cells and make sure it isnt't more than 5. Keeping the networkx version 2.3 worked fine for me**
 
-#### Link to the course
+### Link to the course:
 https://www.appliedaicourse.com/course/11/Applied-Machine-learning-course 
 
