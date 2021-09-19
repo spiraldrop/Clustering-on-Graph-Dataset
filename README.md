@@ -23,7 +23,7 @@ import stellargraph
 from stellargraph.data import UniformRandomMetaPathWalk
 from stellargraph import StellarGraph 
 ```
-**NOTE: Check your decorator version before running the cells and make sure it isnt't more than 5. Keeping the networkx version 2.3 worked fine for me**
+**NOTE: Check your decorator version before running the cells and make sure it isnt't more than 5. Keeping the ```networkx version``` 2.3 worked fine for me**
 
 ### Link to the course:
 https://www.appliedaicourse.com/course/11/Applied-Machine-learning-course 
